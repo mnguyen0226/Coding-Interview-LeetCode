@@ -1,0 +1,18 @@
+#include <iostream>
+#include <cstdio>
+using namespace std;
+
+int main() {
+    // Complete the code - Initialization.
+    int i;
+    long int ld;
+    char c;
+    float f;
+    double d;
+    
+    scanf("%d %ld %c %f %lf", &i, &ld, &c, &f, &d); // double is long float type
+
+    printf("%d \n%ld \n%c \n%.3f \n%.9lf", i, ld, c, f, d);
+    
+    return 0;
+}
