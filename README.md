@@ -1,3 +1,3 @@
-# Coding-Interview-LeetCpde
+Coding Interview
 
 Let's get to work!
